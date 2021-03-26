@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Client Website",
+      "body": "This is the body for client website ",
+      "publishedAt": "2021-03-24",
+      "id": "47fa6pn"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Bill Nye",
+      "email": "billnye@example.com"
+    }
+  ]
+}
