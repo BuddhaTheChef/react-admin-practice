@@ -29,32 +29,51 @@
     {
       "id": "1",
       "name": "Bill Nye",
-      "email": "billnye@example.com"
+      "email": "billnye@example.com",
+      "assignment": "Sustainable Report",
+      "Complete": true,
+      "Incomplete": false,
+      "pic": "https://material-ui.com/static/images/avatar/1.jpg"
     },
     {
       "id": "2",
       "name": "John Doe",
-      "email": "johndoe@example.com"
+      "email": "johndoe@example.com",
+      "assignment": "Sustainable Report",
+      "Complete": false,
+      "Incomplete": true
     },
     {
       "id": "3",
       "name": "Jane Doe",
-      "email": "jane@example.com"
+      "email": "jane@example.com",
+      "assignment": "Sustainable Report",
+      "Complete": false,
+      "Incomplete": true
     },
     {
       "id": "4",
       "name": "Mark Ussre",
-      "email": "Mark@example.com"
+      "email": "Mark@example.com",
+      "assignment": "Sustainable Report",
+      "Complete": true,
+      "Incomplete": false
     },
     {
       "id": "5",
       "name": "James Bond",
-      "email": "james@example.com"
+      "email": "james@example.com",
+      "assignment": "Sustainable Report",
+      "Complete": true,
+      "Incomplete": false
     },
     {
       "id": "6",
       "name": "Ted Cruz",
-      "email": "Ted@example.com"
+      "email": "Ted@example.com",
+      "assignment": "Sustainable Report",
+      "Complete": true,
+      "Incomplete": false
     }
   ]
 }
