@@ -41,7 +41,8 @@
       "email": "johndoe@example.com",
       "assignment": "Sustainable Report",
       "Complete": false,
-      "Incomplete": true
+      "Incomplete": true,
+      "pic": "https://material-ui.com/static/images/avatar/2.jpg"
     },
     {
       "id": "3",
